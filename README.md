@@ -4,7 +4,7 @@ Este repositório contém exercícios de revisão sobre estruturas condicionais 
 
 O objetivo é reforçar a compreensão de como executar trechos de código de forma condicional, aplicando if, else, else if e switch.
 
-🧩 Conteúdo dos exercícios
+Conteúdo dos exercícios
 
 If / Else – execução de blocos de código com base em condições booleanas
 
